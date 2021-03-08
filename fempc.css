@@ -96,3 +96,9 @@ attribution {
 .attribution a:hover {
     color: #888;
 }
+
+@media (max-width: 768px) {
+    .card {
+        width: 50%;
+    }
+}
